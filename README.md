@@ -56,7 +56,7 @@ This tool is for educational purposes only. Use it responsibly and legally. The 
 ---
 
 ## Author:
-Ahad
+Phantom Code | Cyber Reign
 
 ## Social Links:
 - [GitHub](https://github.com/AhadPythonCoder)
