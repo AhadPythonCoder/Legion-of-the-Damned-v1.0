@@ -23,7 +23,7 @@
 ## Installation:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AhadPythonCoder/Legion-of-the-Damned-v1.0.git
+    git clone https://github.com/PhantomCode-CyberReign/Legion-of-the-Damned-v1.0.git
     cd Legion-of-the-Damned-v1.0
     ```
 
