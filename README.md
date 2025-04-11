@@ -59,6 +59,5 @@ This tool is for educational purposes only. Use it responsibly and legally. The 
 Ahad
 
 ## Social Links:
-- [Twitter](https://twitter.com/your-twitter-handle)
 - [GitHub](https://github.com/AhadPythonCoder)
-- [WA Channel](
+- [WA Channel](https://whatsapp.com/channel/0029Vb5t0Hu9WtCC1fo3P11Y)
